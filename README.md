@@ -19,22 +19,44 @@
 ---
 
 ### À propos de moi
+# Hi there, I'm Jules ILBOUDO 👋
 
-Je suis **Jules ILBOUDO**. Passionné par la création de développement logiciel, je me spécialise dans les écosystèmes **Flutter**, **Spring Boot** et **Angular**
-
-- **En ce moment** : Ouvert aux opportunités et collabrorations.
-- **Apprentissage** : Toujours à l'affût des dernières avancées en Cloud Native et Design Systems.
-- **Philosophie** : "Clean code isn't just about making it work; it's about making it last."
+**Software Engineer** passionate about building scalable, high-performance web, mobile, and backend systems.  
 
 ---
 
-### Ma Stack Technologique
+### About Me
 
-<div align="center">
-        <img src="https://skillicons.dev/icons?i=flutter,angular,ts,tailwindcss&theme=light" />
-        <img src="https://skillicons.dev/icons?i=spring,fastapi,django,python,java&theme=light" />
-        <img src="https://skillicons.dev/icons?i=mysql,mongo,firebase,supabase,redis,docker,postman,postgres&theme=light" />
-</div>
+* 💼 **Current Focus:** Open to exciting opportunities, backend/full-stack roles, and tech collaborations.
+* 🎓 **Background:** Computer Science graduate with hands-on experience in distributed systems & multi-platform apps.
+* 📚 **Currently Learning:** Cloud-Native Architecture, Microservices patterns, and scalable Design Systems.
+* 💡 **Philosophy:** *"Clean code isn't just about making it work; it's about making it last."*
+
+---
+
+### Tech Stack & Tools
+
+**Backend & Infrastructure**  
+![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white)
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
+![Go](https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
+![Redis](https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+
+**Frontend & Mobile**  
+![Angular](https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white)
+![React](https://img.shields.io/badge/React-2496ED?style=for-the-badge&logo=react&logoColor=white)
+![Flutter](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white)
+![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
+
+---
+
+### Connect with Me
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/votre-profil)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:votre.email@example.com)
 
 ---
 
